@@ -1,0 +1,7 @@
+{
+  "name": "langgraph-example",
+  "version": "0.1.0",
+  "runtime": "python",
+  "entrypoint": "app:app",
+  "lang": "python"
+}
